@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class FizzbuzzWhileLoop {
     public static void main(String[] args) {

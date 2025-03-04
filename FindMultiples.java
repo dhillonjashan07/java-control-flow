@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class FindMultiples {
     public static void main(String[] args) {

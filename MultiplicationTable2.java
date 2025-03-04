@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class MultiplicationTable2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class MultiplesWhileLoop {
     public static void main(String[] args) {
